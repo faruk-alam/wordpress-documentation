@@ -1,0 +1,85 @@
+WORDPRESS:
+
+WordPress is a free and open-source Content Management System (CMS). It is an online site based on PHP and MySQL.
+It is considered as the easiest and most popular CMS tool due to its features. The main feature of WordPress is its 
+versatility and feasibility to use. There is no use of coding and designing skills for creating a website on this. 
+Even a non-technical person can also create a website with the help of WordPress easily.
+
+BRIEF HISTORY:
+
+WordPress was released on May 27, 2003 by its founders Mike Little and Matt Mullenweg.
+The name WordPress was suggested by a friend of Matt Mullenweg, Christine Selleck Tremoulet.
+The name was completely her idea.
+WordPress first version 0.7 was released on May 27, 2003.
+Next version 0.1 was released in January 2004 which is also called Davis version.
+
+Currently it is the largest self-hosted blogging tool in the world with millions of users every day. According to a survey, 
+WordPress encounters 22.5% of all websites on the Internet. Today these millions of users who may be developer, writer, blogger 
+or designer make a living out of it.
+
+WordPress yet doesn't provide best use for mobile users. Currently, very few large enterprises use WordPress as their CMS. This number 
+is gradually increasing day by day.
+
+WordPress Versions:
+
+Till now many versions of WordPress has launched. Some of them are older versions, some are older but still supported, some are latest 
+and some are still not launched.
+The name of WordPress versions are kept on the United States musicians name.
+Latest Version
+4.7	Dec 2016	none	Release is scheduled for December 2016
+
+WordPress.com vs WordPress.org
+
+Features	              WordPress.com	                             WordPress.org
+
+Definition	              Fully hosted version	                     Self hosted version
+
+Cost	                      Charges required for upgradation	             No charges for upgradation
+
+Freedom and limitations	      Include more limitations	                     Include less limitation
+
+Maintenance	              No responsibility to maintain the site	     All responsibilities comes on user
+
+Advantage	              Security and backups are provided	             You need to find a host to provide backup and security
+
+Themes	                      Choose a theme and use it with the help        Need to install custom themes then use it with PHP and CSS
+                              of custom design                                                       
+Plugins	                      Plugin features are included	             Need to install plugin to add functionality
+
+Registration	              Registration is required on WordPress.com	     No registration is required on WordPress.org
+
+System Requirements for WordPress
+Database − MySQL 5.0 +
+
+Web Server −
+
+WAMP (Windows)
+
+LAMP (Linux)
+
+XAMP (Multi-platform)
+
+MAMP (Macintosh)
+
+Operating System − Cross-platform
+
+Browser Support − IE (Internet Explorer 8+), Firefox, Google chrome, Safari, Opera
+
+PHP Compatibility − PHP 5.2+
+
+Installing WordPess on local server 
+WordPress can be installed using local servers like XAMPP, WAMPP, etc.
+download xampp for windows
+After downloading XAMPP Control pannel
+start -Apache,Mysql
+
+Download WordPress-
+https://wordpress.org/download/
+
+Next go to localhost
+Creating Database
+Open phpmyadmin from the XAMPP server control panel.
+
+
+
+
