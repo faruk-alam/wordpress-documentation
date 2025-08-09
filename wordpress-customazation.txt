@@ -33,19 +33,12 @@ WordPress.com vs WordPress.org
 Features	              WordPress.com	                             WordPress.org
 
 Definition	              Fully hosted version	                     Self hosted version
-
 Cost	                      Charges required for upgradation	             No charges for upgradation
-
 Freedom and limitations	      Include more limitations	                     Include less limitation
-
 Maintenance	              No responsibility to maintain the site	     All responsibilities comes on user
-
 Advantage	              Security and backups are provided	             You need to find a host to provide backup and security
-
-Themes	                      Choose a theme and use it with the help        Need to install custom themes then use it with PHP and CSS
-                              of custom design                                                       
+Themes	                      Choose a theme and use it with the help        Need to install custom themes then use it with PHP and CSS                              of custom design                                                       
 Plugins	                      Plugin features are included	             Need to install plugin to add functionality
-
 Registration	              Registration is required on WordPress.com	     No registration is required on WordPress.org
 
 System Requirements for WordPress
@@ -54,17 +47,11 @@ Database − MySQL 5.0 +
 Web Server −
 
 WAMP (Windows)
-
 LAMP (Linux)
-
 XAMP (Multi-platform)
-
 MAMP (Macintosh)
-
 Operating System − Cross-platform
-
 Browser Support − IE (Internet Explorer 8+), Firefox, Google chrome, Safari, Opera
-
 PHP Compatibility − PHP 5.2+
 
 Installing WordPess on local server 
@@ -79,6 +66,53 @@ https://wordpress.org/download/
 Next go to localhost
 Creating Database
 Open phpmyadmin from the XAMPP server control panel.
+
+setting wordpress on local server-
+first extract wordpress file from .zip file.
+c/drive --> xampp --> htdocs --> create own folder --> open new created file
+copy file and folder from wordprss file
+and paste them into new created folder.
+
+setup-config wordpress
+visit---localhost/"created folder".
+language setting will appear.
+select language.
+
+You will need to know the following items before proceeding.
+
+Database name
+Database username
+Database password
+Database host
+Table prefix (if you want to run more than one WordPress in a single database)
+
+setup database
+visit-localhost/phpmyadmin
+database-create
+Fill requirement ---> submit ---> Run the installation
+
+Information needed:
+
+Site Title
+Username
+Password
+Confirm Password
+Your Email
+Search engine visibility
+After filling up all information ---> Install wordpress
+
+Log In to website
+
+
+
+
+
+
+
+
+
+
+
 
 
 
